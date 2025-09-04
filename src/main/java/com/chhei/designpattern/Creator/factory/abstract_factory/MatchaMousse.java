@@ -1,0 +1,8 @@
+package com.chhei.designpattern.Creator.factory.abstract_factory;
+
+public class MatchaMousse extends Dessert{
+    @Override
+    public void show() {
+        System.out.println("MatchaMousse");
+    }
+}
